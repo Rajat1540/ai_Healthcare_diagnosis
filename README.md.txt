@@ -72,7 +72,7 @@ streamlit run app.py
 This project helps in early lung cancer risk assessment using lifestyle, genetic, environmental, and clinical factors through Machine Learning.
 
 LIVE DEMO
-🚀 Live Streamlit Link: Coming Soon
+🚀 Live Streamlit Link: https://aihealthcarediagnosis-fv9fgnevo6bstdz2h4upfq.streamlit.app/
 
 
 👨‍💻 Developer
